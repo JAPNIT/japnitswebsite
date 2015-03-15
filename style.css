@@ -6,6 +6,7 @@ body{
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
 }
+.header { hieght:200px;}
 .name{/*over here i have put the style on the name */
 	background-color:#009688;
 	color: #fff;
