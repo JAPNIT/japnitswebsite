@@ -6,3 +6,11 @@ body{
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
 }
+.name{/*over here i have put the style on the name */
+	background-color:#009688;
+	color: #fff;
+	display: inline-block;
+	margin: 0;
+	padding-left: 2px;
+	padding-right: 2px; 
+}
